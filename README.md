@@ -1,4 +1,4 @@
-# 📄 Wikipedia_Webscrapper_BinaryClassifier_Python
+# Wikipedia_Webscrapper_BinaryClassifier_Python 📄
 
 **Summary**:  
 I webscrap articles from Wikipedia's "Anthropology" and "Quantum Mechanics" categories. I preprocess the data and try to fit them using binary classification model. 
